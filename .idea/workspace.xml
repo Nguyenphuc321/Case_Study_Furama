@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="212a2394-dc20-444f-9a3e-849c1dcebe34" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QuNy16W1H5K7yiXtQB26KmOLrx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CaseStudy/src" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Main" />
+      <recent name="CheckShowInfor" />
+      <recent name="Services" />
+      <recent name="Model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.newShowinfor">
+    <configuration name="MyStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.MyStack" />
+      <module name="Case_Study_Furama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.RunMain" />
+      <module name="Case_Study_Furama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.RunMain2" />
+      <module name="Case_Study_Furama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tash12File" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Model.Tash12File" />
+      <module name="Case_Study_Furama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="newShowinfor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckShowInfor.newShowinfor" />
+      <module name="Case_Study_Furama" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CheckShowInfor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.newShowinfor" />
+        <item itemvalue="Application.Tash12File" />
+        <item itemvalue="Application.MyStack" />
+        <item itemvalue="Application.RunMain" />
+        <item itemvalue="Application.RunMain2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="212a2394-dc20-444f-9a3e-849c1dcebe34" name="Default Changelist" comment="" />
+      <created>1568616771168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568616771168</updated>
+      <workItem from="1568616775404" duration="9977000" />
+      <workItem from="1568638959273" duration="3937000" />
+      <workItem from="1568683289756" duration="4227000" />
+      <workItem from="1568690795590" duration="16418000" />
+      <workItem from="1568724809174" duration="4828000" />
+      <workItem from="1568770971909" duration="1569000" />
+      <workItem from="1568776255661" duration="4979000" />
+      <workItem from="1568789244330" duration="11291000" />
+      <workItem from="1568810413675" duration="8555000" />
+      <workItem from="1568901811606" duration="273000" />
+      <workItem from="1568949960893" duration="617000" />
+      <workItem from="1569035638825" duration="439000" />
+      <workItem from="1569069862129" duration="1466000" />
+      <workItem from="1569118666537" duration="4300000" />
+      <workItem from="1569141577177" duration="4522000" />
+      <workItem from="1569159744396" duration="5403000" />
+      <workItem from="1569400523514" duration="1834000" />
+      <workItem from="1569415873083" duration="4138000" />
+      <workItem from="1569462273348" duration="1859000" />
+      <workItem from="1569480112396" duration="12467000" />
+      <workItem from="1569505225519" duration="5835000" />
+      <workItem from="1569545695580" duration="597000" />
+      <workItem from="1569554315816" duration="2484000" />
+      <workItem from="1569573658995" duration="4873000" />
+      <workItem from="1569594636271" duration="3017000" />
+      <workItem from="1569634251720" duration="7091000" />
+      <workItem from="1569658619633" duration="6788000" />
+      <workItem from="1569677342010" duration="5848000" />
+      <workItem from="1569720159994" duration="2148000" />
+      <workItem from="1569727786767" duration="1573000" />
+      <workItem from="1569747342480" duration="4316000" />
+      <workItem from="1569807900123" duration="5542000" />
+      <workItem from="1569813649606" duration="538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
